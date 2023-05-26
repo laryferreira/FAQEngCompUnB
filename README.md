@@ -1,5 +1,5 @@
 # FAQ - Eng.Comp(UnB)
-###### Desenvolvido por: Laryssa Ferreira
+###### Desenvolvido por: Laryssa Ferreira | Última atualização: Fevereiro 2023
 ![html](https://img.shields.io/badge/-HTML-red)
 ![css](https://img.shields.io/badge/-CSS-blue)
 ![js](https://img.shields.io/badge/-JS-yellowgreen)
